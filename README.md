@@ -42,7 +42,7 @@ Acceso remoto
 Cobertura legal
 Conflictos de propiedades intelectuales  
 Hicimos un formulario del día de san Valentín con las opciones de dinero, amor verdadero, comida 
-  
+  
 
 Ocupamos One note para indicar el lugar que mas nos gusta 
   
