@@ -1,6 +1,6 @@
 # hello-world
-practica de laboratorio numero 1 
-Practica 1 
+
+Practica 1
 La computación como herramienta de trabajo del profesional de ingeniería
 Objetivo:
 Descubrir y utilizar herramientas de software que se ofrecen en Internet que permitan realizar actividades y trabajos académicos de forma organizada y profesional a lo largo de la vida escolar, tales como manejo de repositorios de almacenamiento y buscadores con funciones avanzadas.
